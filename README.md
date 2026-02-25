@@ -1,1 +1,4 @@
 # Python
+This folder contains several hands-on Python projects created in Jupyter Notebook that demonstrate different steps of the data analysis process. The projects include collecting data using APIs and web scraping, cleaning and preparing datasets, performing exploratory data analysis with Pandas, and automating file organization tasks. Various real-world datasets were processed by handling missing values, fixing formatting issues, and structuring the data for analysis.
+
+Libraries such as Pandas, Requests, BeautifulSoup, JSON, and OS were used to extract, clean, analyze, and manage data efficiently. Overall, this folder highlights practical experience in working with raw data, building simple automation scripts, and applying Python tools to gain insights and streamline everyday data tasks.
